@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Car Price Prediction Application**  
-🌱 &nbsp;I'm currently learning **Boosting Algorithms**  
+🔭 &nbsp;I'm currently working on **F1 Race Winner Prediction Model**  
+🌱 &nbsp;I'm currently learning **Deep Learning**  
 👯 &nbsp;I'm looking to collaborate on **Open Source Models**  
 🤔 &nbsp;I'm looking for help with **Understanding the AI**  
 💬 &nbsp;Ask me about **ML Fundamentals**  
@@ -59,12 +59,6 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=KevalSolanki77&show_icons=true&theme=tokyonight&title_color=4942d1&icon_color=4942d1&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=KevalSolanki77&layout=compact&theme=tokyonight&title_color=4942d1&icon_color=4942d1&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KevalSolanki77&bg_color=00000000&color=4942d1&line=4942d1&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
